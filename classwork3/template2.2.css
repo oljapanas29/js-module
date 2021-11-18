@@ -1,0 +1,29 @@
+body>div {
+    display: flex;
+    background: cadetblue;
+    margin: 20px;
+}
+h2 {
+    width: 300px;
+    font-size: 40px;
+    color: blue;
+    padding: 25px;
+}
+.upper {
+    text-transform: uppercase;
+}
+p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    background: lightgrey;
+    font-size: 15px;
+    padding: 0  15px 0 15px;
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 8px;
+    }
+img {
+    height: 300px;
+}

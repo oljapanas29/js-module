@@ -1,0 +1,21 @@
+body>div {
+    display: flex;
+    column-gap: 15px;
+}
+.product-card {
+    width: 350px;
+    background: brown;
+
+}
+h3 {
+    font-size: 30px;
+    color: orange;
+    margin-left: 70px;
+    text-decoration: underline;
+}
+.product-image {
+    height: 250px;
+    width: 250px;
+    border: 5px solid yellow;
+    margin: 30px;
+}
